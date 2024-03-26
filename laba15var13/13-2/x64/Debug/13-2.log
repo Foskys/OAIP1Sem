@@ -1,0 +1,4 @@
+﻿  13-2.cpp
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba15\13\13-2\13-2.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba15\13\13-2\13-2.cpp(23,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  13-2.vcxproj -> D:\later github\index.html\ОАИП\main.cpp\oh my god\laba15\13\13-2\x64\Debug\13-2.exe
