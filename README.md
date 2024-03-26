@@ -1,2 +1,2 @@
 # OAIP
-13 variant v osnovnom
+13 variant kak ocnova + dop-ы
