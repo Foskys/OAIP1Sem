@@ -1,0 +1,7 @@
+﻿  13-1.cpp
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba7\ocnov\13-1\13-1.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba7\ocnov\13-1\13-1.cpp(5,30): warning C4305: инициализация: усечение из "double" в "float"
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba7\ocnov\13-1\13-1.cpp(7,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba7\ocnov\13-1\13-1.cpp(11,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba7\ocnov\13-1\13-1.cpp(13,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  13-1.vcxproj -> D:\later github\index.html\ОАИП\main.cpp\oh my god\laba7\ocnov\13-1\x64\Debug\13-1.exe
