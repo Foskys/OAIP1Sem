@@ -1,0 +1,10 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: zadanie2, Конфигурация: Debug x64 ------
+1>zadanie2.cpp
+1>D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\zadanie2.cpp(11,11): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+1>D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\zadanie2.cpp(13,11): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+1>D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\zadanie2.cpp(16,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+1>zadanie2.vcxproj -> D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\x64\Debug\zadanie2.exe
+1>Сборка проекта "zadanie2.vcxproj" завершена.
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Сборка запущено в 00:23, заняло 01,740 с ==========

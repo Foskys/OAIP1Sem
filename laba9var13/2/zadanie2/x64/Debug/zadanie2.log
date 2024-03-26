@@ -1,0 +1,5 @@
+﻿  zadanie2.cpp
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\zadanie2.cpp(11,11): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\zadanie2.cpp(13,11): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\zadanie2.cpp(16,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  zadanie2.vcxproj -> D:\later github\index.html\ОАИП\main.cpp\oh my god\laba9\2\zadanie2\x64\Debug\zadanie2.exe
