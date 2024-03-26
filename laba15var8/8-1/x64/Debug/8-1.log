@@ -1,0 +1,4 @@
+﻿  8-1.cpp
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba15\8\8-1\8-1.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\later github\index.html\ОАИП\main.cpp\oh my god\laba15\8\8-1\8-1.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  8-1.vcxproj -> D:\later github\index.html\ОАИП\main.cpp\oh my god\laba15\8\8-1\x64\Debug\8-1.exe
